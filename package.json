@@ -1,0 +1,19 @@
+{
+  "name": "vscodepractice",
+  "version": "1.0.0",
+  "main": "tests.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "selenium-webdriver": "^4.34.0"
+  },
+  "devDependencies": {
+    "chromedriver": "^138.0.2",
+    "jest": "^29.7.0"
+  }
+}
